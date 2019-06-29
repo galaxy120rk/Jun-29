@@ -1,0 +1,145 @@
+.yellowBg{
+	background-color: #FADA19;
+
+}
+.nav-link{
+	padding-left: 30px !important;
+	font-weight: bold;
+}
+
+
+button:focus{
+	outline: none; 
+	border: none;
+}
+.navbar-light .navbar-toggler {
+    color: red;
+    border: none;
+}
+
+.bd-search-docs-toggle{
+	color: #52347D !important;
+}
+
+
+.icPt img{
+	padding-top: 5px;
+}
+
+.form-contro{
+	border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+.btmTom{
+	max-width: 700px;
+	margin: 0 auto;
+}
+.fBtmMail{
+	border:none;
+	height: 50px;
+	border-radius: 5px;
+	color: #ad8200;
+	
+}
+.fBtmSbmt{
+	border:none;
+	background-color: #ffc107;
+	border-radius: 5px;
+	height: 50px;
+	font-weight: bold;
+}
+form input[type="text"]:focus{
+	outline:none !important;
+}
+.fBtmSbmt:hover, .fBtmSbmt:focus, .fBtmSbmt:active {
+    color: #000;
+    background-color: #FAAA19;
+    border-color: #285e8e; /*set the color you want here*/
+}
+
+
+input::-webkit-input-placeholder {
+color: #ffc107 !important;
+}
+ 
+input:-moz-placeholder { /* Firefox 18- */
+color: #ffc107 !important;  
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+color: #ffc107 !important;  
+}
+ 
+input:-ms-input-placeholder {  
+color: #ffc107 !important;  
+}
+
+.soclImg a{
+	color: #ffc107;
+	font-size: 60px;
+	padding: 0px 10px;
+}
+.soclImg a:hover{
+	color: #FAAA19;
+}
+
+ 
+.ftrText a{
+	color: #ffc107;
+	text-decoration: none;
+}
+.ftrText a:hover, a:active{
+	color: #ad8200;
+	text-decoration: none;
+}
+
+/**.ronded img{
+	height: 50px;
+	width: 50px;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius: 50%;
+
+}
+**/
+.runded{
+
+	height: 60px;
+	width: 60px;
+	border: 2px solid black;
+	border-radius: 50%;
+	padding-top: 0px;
+}
+.runded:hover{
+	border: 2px solid gray;
+}
+
+
+.bicn{
+
+	font-size: 50px;
+	color: black;
+	margin-right: 20px;
+}
+.wnbicn{
+	font-size: 40px;
+	padding-top: 8px;
+	padding-right: 2px;
+}
+
+.bicn:hover{
+	color: gray;
+	text-shadow: 0 0 10px black;
+}
+
+.wds{
+	display: inline;
+	
+}
+
+.sldIcon{
+	margin-bottom: 50px;
+}
